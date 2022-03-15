@@ -1,3 +1,5 @@
+//файл utils.go
+
 package utils
 
 func InSlice(a []string, x string) bool {
